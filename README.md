@@ -65,7 +65,7 @@ https://prabhat-mishra-07.netlify.app/
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=prabhat706&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Prabhat's+Github+Stats" alt="Anup's Github stats" />
 <img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=Anup0099&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
 </div>
-<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup0099&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat706&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span>
 
 
 |               |           |
