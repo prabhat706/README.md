@@ -95,19 +95,19 @@ https://prabhat-mishra-07.netlify.app/
 </p> -->
 
 <p align="center">
-<a href="https://github.com/Anup0099/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Anup0099&theme=react-dark&area=true&hide_border=true" width="100%">
+<a href="https://github.com/prabhat706/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=prabhat706&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
  <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
  <table>
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anup0099&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhat706&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
     </tr> 
      
    <tr>
-     <td><img src="https://activity-graph.herokuapp.com/graph?username=Anup0099&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://activity-graph.herokuapp.com/graph?username=prabhat760&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
     </td>
     </tr>
     <tr><td>😀</td></tr>    
