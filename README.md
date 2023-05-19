@@ -80,14 +80,14 @@ https://prabhat-mishra-07.netlify.app/
 
  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anup0099&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="aniket7515" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhat706&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="aniket7515" /></a> </p>
 
 <!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
 <p align = "left">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Anup0099&theme=radical" align = "left" width="40%">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=prabhat706&theme=radical" align = "left" width="40%">
 </p>
 <p align = "right">
-   <img src = "https://github-readme-stats.vercel.app/api?username=Anup0099&show_icons=true&theme=radical" align = "right" width="55%">
+   <img src = "https://github-readme-stats.vercel.app/api?username=prabhat706&show_icons=true&theme=radical" align = "right" width="55%">
 </p>
 
 <!-- <p align = "center">
