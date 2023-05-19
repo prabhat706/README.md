@@ -1,16 +1,16 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
-<h1 align="center">Hi Folks👋, Anup here!</h1>
+<h1 align="center">Hi Folks👋, Prabhat here!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
-    I am Anup Pal and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
-https://anupsportfolio.netlify.app
+    I am Prabhat Mishra and I am a sopomohore pursuing my Bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
+https://prabhat-mishra-07.netlify.app/
    <br>
     <br/>
 <!--      Links      -->
      
      
-[![](https://img.shields.io/badge/-anup_pal-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/anup-pal-ba73a01b6/)](https://www.linkedin.com/in/anup-pal-ba73a01b6/)
-[![](https://img.shields.io/badge/-anuppal602@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:anuppal)](mailto:anuppal602@gmail.com)
+[![](https://img.shields.io/badge/-prabhat706-blue?style=for-the-badge&logo=Linkedin&logoColor=white&linkhttps:https://www.linkedin.com/in/prabhat-mishra-30a620213/)](https://www.linkedin.com/in/prabhat-mishra-30a620213/)
+[![](https://img.shields.io/badge/-07prabhatmishra@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:PrabhatMishra)](mailto:07prabhatmishra.com)
 [![](https://img.shields.io/badge/-prabhat706-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prabhat706)
 
 
@@ -57,16 +57,16 @@ https://anupsportfolio.netlify.app
 - Fun fact: What make me more happy?? *To help others and grow-up together*
     
 <div>
-<!-- <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=prabhat706&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
+<!-- <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=Anup0099&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
 </div>
     <div>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=prabhat706&theme=react-dark">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anup0099&theme=react-dark">
     </div>
 <div align="center">
-<img width="370px" src="https://github-readme-stats.vercel.app/api?username=prabhat706&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Anup's+Github+Stats" alt="Anup's Github stats" />
-<img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=prabhat706&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
+<img width="370px" src="https://github-readme-stats.vercel.app/api?username=Anup0099&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=FC6401&icon_color=FC6401&bg_color=0D111700&text_color=969696&custom_title=Anup's+Github+Stats" alt="Anup's Github stats" />
+<img width="370px" src="http://github-readme-streak-stats.herokuapp.com?user=Anup0099&hide_border=true&background=0D111700&border=943BDD00&fire=CB0044&sideNums=FC6401&currStreakLabel=ff96e6e&currStreakNum=969696&sideLabels=FC6401&dates=969696&stroke=7F1DA2" />
 </div>
-<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat706&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span>
+<span><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anup0099&theme=radical&title_color=F16707&hide_border=true" width="290px" data-canonical-></span>
 
 
 |               |           |
@@ -81,14 +81,14 @@ https://anupsportfolio.netlify.app
 
  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhat706&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="aniket7515" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anup0099&theme=darkhub&no-bg=true&row=1&margin-w=15&margin-h=15" alt="aniket7515" /></a> </p>
 
 <!-- <img align="center" alt="GIF" src="coding-freak.gif?raw=true" width="450" height="290" />  -->
 <p align = "left">
-     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=prabhat706&theme=radical" align = "left" width="40%">
+     <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Anup0099&theme=radical" align = "left" width="40%">
 </p>
 <p align = "right">
-   <img src = "https://github-readme-stats.vercel.app/api?username=prabhat706&show_icons=true&theme=radical" align = "right" width="55%">
+   <img src = "https://github-readme-stats.vercel.app/api?username=Anup0099&show_icons=true&theme=radical" align = "right" width="55%">
 </p>
 
 <!-- <p align = "center">
@@ -96,21 +96,21 @@ https://anupsportfolio.netlify.app
 </p> -->
 
 <p align="center">
-<a href="https://github.com/prabhat706/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=prabhat706&theme=react-dark&area=true&hide_border=true" width="100%">
+<a href="https://github.com/Anup0099/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Anup0099&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
  <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
  <table>
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhat706&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anup0099&theme=monokai"  display=block width=100% height=auto  alt="1" >   </td>
     </tr> 
      
    <tr>
-     <td><img src="https://activity-graph.herokuapp.com/graph?username=prabhat706&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+     <td><img src="https://activity-graph.herokuapp.com/graph?username=Anup0099&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
     </td>
     </tr>
     <tr><td>😀</td></tr>    
   
-  - *[Detailed Stats](https://gitstats.me/prabhat706)*
+  - *[Detailed Stats](https://gitstats.me/Anup0099)*
