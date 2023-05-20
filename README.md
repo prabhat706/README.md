@@ -45,7 +45,7 @@ https://prabhat-mishra-07.netlify.app/
 ## *"You can ask to me about!*
 - Front-end development using *React.js*
 - Backend development using *Node.js & Express Js*
-- Solving Data structure and algorithm questions in *CPP*
+- Solving Data structure and algorithm questions in *CP*
 
  
 ## *"Some More About Me!*
