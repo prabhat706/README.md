@@ -2,7 +2,7 @@
 <h1 align="center">H Folks👋, Prabhat here!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
-    I am Prabhat Mishra and I am a sopomohore pursuing my bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
+    I am Prabhat Mishra and I am a sopomohore pursuing my bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusias 💻💻
 https://prabhat-mishra-07.netlify.app/
    <br>
     <br/>
