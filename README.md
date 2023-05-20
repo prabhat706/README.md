@@ -99,7 +99,7 @@ https://prabhat-mishra-07.netlify.app/
  <img src="https://activity-graph.herokuapp.com/graph?username=prabhat706&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
- <h2 align="center">Productvity Stats📈 !! 😊</h2>
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
  
  <table>
     <tr>
