@@ -112,4 +112,4 @@ https://prabhat-mishra-07.netlify.app/
     </tr>
     <tr><td>😀</td></tr>    
   
-  - *[Detailed Stats](https://gitstats.me/Anup0099)*
+  - *[Detailed Stats](https://gitstats.me/prabhat7060099)*
