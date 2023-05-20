@@ -49,7 +49,7 @@ https://prabhat-mishra-07.netlify.app/
 
  
 ## *"Some More About Me!*
-- I’m currently working on *Web Development* using *React.js and Node.js*
+- ’m currently working on *Web Development* using *React.js and Node.js*
 - I’m currently learning *DSA and Backend Development*
 - Ask me about DSA and Web Development [MERN Development]
 - I’m looking to collaborate on exciting Open-Source Projects and Hackathons
