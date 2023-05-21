@@ -34,7 +34,7 @@ https://prabhat-mishra-07.netlify.app/
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java)
 
 
-<h1>Libraries & Framewok :</h1>
+<h1>Libraries & Framework :</h1>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
