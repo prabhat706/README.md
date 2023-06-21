@@ -1,8 +1,8 @@
 ![68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67](https://user-images.githubusercontent.com/80635510/149666617-b194a515-9bee-492e-8c47-90ef758fbb97.png)
-<h1 align="center">H Folks👋, Prabhat here!</h1>
+<h1 align="center">Hi Folks👋, Prabhat here!</h1>
 <!-- <h3 align="center">I am a Computer Science student & Web developer.</h3> -->
 <h1><👨‍💻 About Me></h1>
-    I am Prabhat Mishra and I am  sopomohore pursuing my bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
+    I am Prabhat Mishra and I am  Sopomohore pursuing my bachelor's in Computer Science and Engineering from India 🎓 I am a FrontEnd Developer and learning Backend Development & Web3.0 enthusiast 💻💻
 https://prabhat-mishra-07.netlify.app/
    <br>
     <br/>
@@ -42,7 +42,7 @@ https://prabhat-mishra-07.netlify.app/
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## *"You can ask to me about!*
+## *"You can ask me about it!*
 - Front-end development using *React.js*
 - Backend development using *Node.js & Express Js*
 - Solving Data structure and algorithm questions in *CPP*
@@ -53,7 +53,7 @@ https://prabhat-mishra-07.netlify.app/
 - I’m currently learning *DSA and Backend Development*
 - Ask me about DSA and Web Development [MERN Development]
 - I’m looking to collaborate on exciting Open-Source Projects and Hackathons
-- Fun fact: What make me more happy?? *To help others and grow-up together*
+- Fun fact: What makes me happier?? *To help others and grow up together*
     
 <div>
 <!-- <img src="https://github-readme-activity-graph-1.josr3.repl.co/graph?username=Anup0099&theme=radical&bg_color=00000000&point=00000000&line=FC6401&hide_border=true&custom_title=Keep+Exploring,+Learning+and+Contributing+away...&color=969696&area=true&area_color=FC6401"> -->
